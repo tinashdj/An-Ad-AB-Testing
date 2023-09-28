@@ -7,14 +7,16 @@ An advertising company has created a new advertising strategy to increase the nu
 
 ## Experiment Approach
 Null Hypothesis Hₒ: p = pₒ
+
 Alternative Hypothesis Hₐ: p ≠ pₒ
+
 Confidence Level: 95% (α=0.05)
 
 ### Experiment Overview
 1. What is the name of the experiment? An Ad A/B Testing
 2. Define Hypothesis
-Hₒ : There is no significant difference between the ad success rate of both groups
-Hₐ : There is significant difference between the ad success rate of both groups
+- Hₒ : There is no significant difference between the ad success rate of both groups
+- Hₐ : There is significant difference between the ad success rate of both groups
 3. Who is the participant? The user that seeing the Ad
 4. What variables will be tested? Dummy(old) Ad Design & Creative(new) Ad Design
 
@@ -27,7 +29,9 @@ Hₐ : There is significant difference between the ad success rate of both group
 
 ## Statistical Conclusion
 p-value = 0.2592 and alpha = 0.05
+
 p-value > alpha
+
 p-value higher than alpha, we can not reject the Null hypothesis and conclude that there is no statistically significant difference between the two groups of Ad A and Ad B
 
 ## Additional Conclusion
