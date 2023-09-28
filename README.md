@@ -25,7 +25,6 @@ Confidence Level: 95% (α=0.05)
 - Experiment Design Date Finished : 2020-07-10
 - The Number of Days Experiment Design Running : 8 (Friday to Friday)
 - We will run this experiment for 8 days
-- Experiment mean over 24 hours = 51.79
 
 ## Statistical Conclusion
 p-value = 0.2592 and alpha = 0.05
